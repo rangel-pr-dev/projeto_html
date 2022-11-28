@@ -1,0 +1,18 @@
+body {
+
+	margin: 0px;
+	min-height: 100vh;
+}
+
+.conteudo {
+
+	min-height: 100vh;	
+}
+
+.rodape {
+
+	background-color: black;
+	color: white;
+	min-height: 128px;
+	padding: 16px;
+}
