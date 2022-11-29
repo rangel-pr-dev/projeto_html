@@ -4,6 +4,14 @@ body {
 	min-height: 100vh;
 }
 
+.cabecalho {
+
+	background-color: black;
+	color: white;
+	min-height: 128px;
+	padding: 16px;
+}
+
 .conteudo {
 
 	min-height: 100vh;	
